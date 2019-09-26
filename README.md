@@ -12,4 +12,4 @@ Recognize handwritten digits from the popular MNIST dataset using k-Nearest Neig
 The k-Nearest Neighbor classifier is by far the most simple image classification algorithm. In fact, it’s so simple that it doesn’t actually “learn” anything! Instead, this algorithm simply relies on the distance between feature vectors.
 
 ### Screenshots
-![alt Screenshot1](https://github.com/AyushSomani001/Handwritten-Classification/blob/master/Assets/SS1.png)
+![alt Screenshot1](https://github.com/AyushSomani001/Handwritten-Digit-Classification/blob/master/SS1.png)
